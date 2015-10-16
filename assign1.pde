@@ -14,7 +14,7 @@ void setup(){
       fill(#FFFFFF);
  rect(0,10,x,30);   
   b=floor(random(300,500));
-  x=floor(random(10,205));
+  x=floor(random(10,199));
   a=0;
   y=floor(random(100,330));
   
